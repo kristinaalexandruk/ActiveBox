@@ -11,7 +11,7 @@
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
 }
-
+ 
 p {
     margin: 0 0 15px;
 }
@@ -240,7 +240,7 @@ body {
 	outline: none;
 	border: none;
 	border-radius: 3px;
-	background-color: #e84545;
+	
 	transition: background .5s ease;
 }
 
@@ -248,7 +248,9 @@ body {
 	background-color: #e72828;
 }
 
-
+.btn--red {
+	background-color: #e84545;
+}
 
 
 /* Features
